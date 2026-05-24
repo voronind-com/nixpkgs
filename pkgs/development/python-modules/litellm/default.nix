@@ -164,6 +164,7 @@ buildPythonPackage rec {
     "importlib-metadata"
     "jsonschema"
     "openai"
+    "pydantic"
     "python-dotenv"
   ];
 
